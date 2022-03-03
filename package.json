@@ -21,6 +21,7 @@
   "homepage": "https://github.com/skylares/stock-project#readme",
   "dependencies": {
     "@alpacahq/alpaca-trade-api": "^2.12.1",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
   }
 }
